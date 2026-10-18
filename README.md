@@ -2,7 +2,7 @@
 
 Welcome to my official portfolio repository! This website serves as an interactive showcase of my technical skills, software engineering projects, data analytics case studies, and practical experience as an Information Technology undergraduate.
 
-🌐 **Live Website:** [
+🌐 **Live Website:** [ https://sashiniweliketiya.github.io/portfolio/]
 
 ---
 
